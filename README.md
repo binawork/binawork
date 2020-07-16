@@ -18,3 +18,7 @@ Na każdym spotkaniu powinny być wyznaczone 3 role: 1. Prowadzący spotkanie 2.
 
 ###### TICKET NA GITHUB
 Powinno się tworzyć 1 branch na każdy ticket na GitHub
+
+####### ZAPISYWANIE USER STORIES 
+Każda user story ma zawierac DOR ( definition of ready) oraz DOD (definition of done) .
+Przykład poniżej: 
